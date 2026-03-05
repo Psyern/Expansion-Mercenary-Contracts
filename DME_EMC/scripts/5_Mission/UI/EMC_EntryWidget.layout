@@ -1,0 +1,15 @@
+FrameWidgetClass EMC_EntryRoot {
+ size 1.0 0.10
+ {
+  TextWidgetClass MercLabel {
+   text "Merc"
+   position 0.00 0.00
+   size 0.75 0.10
+  }
+  ButtonWidgetClass HireButton {
+   text "Hire"
+   position 0.78 0.01
+   size 0.20 0.08
+  }
+ }
+}
